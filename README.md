@@ -18,11 +18,7 @@
 📫 How to reach me: <a href='mailto:channel.my.honey@gmail.com'>here</a>
 </p>
 
-## 🛠 Technical Stack
-*   Java, JavaScript, SQL
-*   Spring Framework(Boot, MVC, Data, Security)
+## 🛠 Technical Stack  
 *   HTML, CSS, Bootstrap
-*   PostgreSQL, MySQL, MongoDB, Flyway, Liquibase
-*   Maven, Gradle
-*   Docker
+*   MySQL
 *   GitHub
