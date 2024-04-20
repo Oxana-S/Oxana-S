@@ -19,6 +19,10 @@
 </p>
 
 ## 🛠 Technical Stack  
-*   HTML, CSS, Bootstrap
+*   HTML, CSS, JS, Bootstrap
+*   PHP
 *   MySQL
+*   Wordpress
+*   Figma
+*   Photoshop 
 *   GitHub
